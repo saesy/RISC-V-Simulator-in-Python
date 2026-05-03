@@ -8,3 +8,7 @@ Add file called hex_inst.txt to where your directory can pull from directly. Ins
 # Bugs
 
 No known/outstanding bugs at this time.
+
+# Documents
+
+Presentation and example hex_inst.txt used for demonstration located in Documents folder.
